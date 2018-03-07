@@ -1,5 +1,3 @@
-# chartist_template
-Template for using ChartistJS in LiaScript for visualization
 <!--
 
 author:   André Dietrich
@@ -21,6 +19,9 @@ new Chartist.Line('#chart@0', @2);
 -->
 
 # chartist_template
+
+Template for using ChartistJS in LiaScript for visualization
+
 <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
 
 ```JSON
